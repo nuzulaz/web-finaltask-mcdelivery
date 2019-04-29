@@ -1,3 +1,1 @@
-# kelompok8
-
-Kelompok 8 Tugas Besar Pemrograman Web IF 41 02
+Sebelum menggunakan program pastikan sudah mengimport database dan mengubah konfigurasi
